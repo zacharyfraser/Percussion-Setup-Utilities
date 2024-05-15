@@ -5,5 +5,5 @@ Generates a CSV file.
 
 **Data Dictionary**
 ```
-RECORD = CHART_TITLE + 1{',' + INSTRUMENT}
+RECORD = CHART_TITLE + ',' + PART_NAME + 1{',' + INSTRUMENT}
 ```
